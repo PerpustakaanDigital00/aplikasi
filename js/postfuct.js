@@ -7,7 +7,7 @@ export default function PostSignUp() {
     "https://us-central1-pasabar.cloudfunctions.net/pasabar";
   let tokenkey = "token";
   let tokenvalue =
-    "";
+    "89cf9840d33ec6446071ceb16228311c87d1caadfd860a185d72035f94eb09be236ee63150a328af435eca63afcfed54ff104ab4c7c1b1ac6f948c28775e28aa";
   let datainjson = {
     username: getValue("username"),
     password: getValue("password"),
